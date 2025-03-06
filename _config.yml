@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : ""
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Triet Tran"
 description              : &description "PhD Candidate"
@@ -25,7 +25,7 @@ author:
   avatar           : "Triet_image.png"
   name             : "Triet M. Tran"
   pronouns         : # example: "she/her"  
-  bio              : "Graduate Teaching Assistant"
+  bio              : "Neuroimaging Analysis"
   location         : "USA"
   employer         : "University of Oklahoma"
   uri              : # URL
