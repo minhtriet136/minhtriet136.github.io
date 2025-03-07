@@ -11,7 +11,7 @@ redirect_from:
 
 I am a Ph.D. candidate in the School of Computer Science, Gallogly College of Engineering, at the University of Oklahoma (OU). My research primarily focuses on neuroimaging analysis, particularly functional MRI (fMRI) and EEG, as well as the energy landscape framework for understanding brain dynamics. 
 
-The energy landscape approach provides a way to model and analyze brain state transitions by constructing an energy representation of functional connectivity patterns. This method allows us to investigate how brain states evolve, how stable or flexible they are, and how these properties relate to cognitive function and neurological disorders. By leveraging this framework, I aim to uncover insights into brain function after brain tumor resection and in conditions such as Multiple Sclerosis (MS), Alzheimers. Additionally, I integrate machine learning techniques to improve the predictive capabilities of neuroimaging data analysis.
+The energy landscape approach provides a way to model and analyze brain state transitions by constructing an energy representation of functional connectivity patterns. This method allows us to investigate how brain states evolve, how stable or flexible they are, and how these properties relate to cognitive function and neurological disorders. By leveraging this framework, I aim to uncover insights into brain function after brain tumor resection and in conditions such as Multiple Sclerosis (MS) and Alzheimer's. Additionally, I integrate machine learning techniques to improve the predictive capabilities of neuroimaging data analysis.
 
 ---
 
@@ -26,6 +26,22 @@ The energy landscape approach provides a way to model and analyze brain state tr
 
 ### 2023
 - **Robberson Travel Grant**, The Graduate College *(October)*
+
+---
+
+## Presentations
+
+- **Matthew Beattie, Triet M. Tran**. (2023). "A clustering and machine learning approach to identification of structural drivers of unsheltered homelessness." Poster presentation: The Computational Social Science Society of the Americas (CSS2023), Santa Fe, NM.
+
+- **Triet M. Tran**, Thi T. Tran, and Sina Khanmohammadi. "High-Order Resting-State Functional Connectivity is Predictive of Working Memory Decline After Brain Tumor Resection." Poster presentation: Poster Fair & Networking Event, University of Oklahoma, OK.
+
+---
+
+## Teaching Experience
+
+- **2023-2025**: **Professional Practicum**, Teaching Assistant  
+- **2023-2025**: **3SigmaLab**, Research Assistant  
+- **2022-2023**: **DSA's Lab**, Research Assistant  
 
 ---
 
