@@ -11,26 +11,16 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<h2>Published</h2>
+<hr />
+<p><strong>Seyed Majid Razavi, <u>Triet M. Tran</u>, and Sina Khanmohammadi.</strong> "Brain State Transition Disruptions in Alzheimer’s Disease: Insights From EEG State Dynamics." <i>2025 IEEE International Symposium on Biomedical Imaging (ISBI)</i>, IEEE, 2025.</p>
 
+<p><strong><u>Triet M. Tran</u>, Thi T. Tran, and Sina Khanmohammadi.</strong> "High-Order Resting-State Functional Connectivity is Predictive of Working Memory Decline After Brain Tumor Resection." <i>2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)</i>, IEEE, 2024.</p>
 
+<h2>In Preparation</h2>
+<hr />
+<p><strong><u>Triet M. Tran</u> and Sina Khanmohammadi.</strong> "Predictive Power of High-Order Energy Landscapes in Post-Operative Working Memory."</p>
 
+<p><strong><u>Triet M. Tran</u>, Seyed Majid Razavi, Steven E. Wilson, and Sina Khanmohammadi.</strong> "Energy Landscape Analysis of fMRI Reveals Disruptions in Neural Adaptability of Multiple Sclerosis Patients."</p>
+
+<p><strong><u>Triet M. Tran</u> and Sina Khanmohammadi.</strong> "Continuous Energy Landscapes in fMRI: A Graph Neural Network Approach to Enhanced Connectivity Modeling."</p>
