@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Triet Tran - Researcher in Neuroimaging Analysis and Computational Neuroscience"
+title: "Researcher in Neuroimaging Analysis and Computational Neuroscience"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,9 +9,9 @@ redirect_from:
 
 ## About Me
 
-I am a Ph.D. candidate in the School of Computer Science, Gallogly College of Engineering, at the University of Oklahoma (OU). My research primarily focuses on machine learning, particularly Graph Neural Networks (GNNs), uncertainty quantification, and energy-based models. I explore high-order functional brain dynamics and energy landscape analysis to improve our understanding of cognitive function prediction and neurological disorders.
+I am a Ph.D. candidate in the School of Computer Science, Gallogly College of Engineering, at the University of Oklahoma (OU). My research primarily focuses on neuroimaging analysis, particularly functional MRI (fMRI) and EEG, as well as the energy landscape framework for understanding brain dynamics. 
 
-My work has applications in medical imaging and neuroscience, particularly in understanding brain function after brain tumor resection and in patients with Multiple Sclerosis (MS). I leverage advanced machine learning techniques, including GNNs and energy-based models, to develop more enhanced and interpretable predictive models.
+The energy landscape approach provides a way to model and analyze brain state transitions by constructing an energy representation of functional connectivity patterns. This method allows us to investigate how brain states evolve, how stable or flexible they are, and how these properties relate to cognitive function and neurological disorders. By leveraging this framework, I aim to uncover insights into brain function after brain tumor resection and in conditions such as Multiple Sclerosis (MS), Alzheimers. Additionally, I integrate machine learning techniques to improve the predictive capabilities of neuroimaging data analysis.
 
 ---
 
