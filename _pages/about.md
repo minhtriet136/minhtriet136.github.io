@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Triet Tran - Researcher in Machine Learning and Graph Neural Networks"
+title: "Triet Tran - Researcher in Neuroimaging Analysis and Computational Neuroscience"
 author_profile: true
 redirect_from: 
   - /about/
