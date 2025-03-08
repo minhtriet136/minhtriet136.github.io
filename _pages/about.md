@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Triet M. Tran, Ph.D. Candidate, The University of Oklahoma."
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -31,17 +31,17 @@ I am a Ph.D. candidate at the Data Science and Analytics Institute at the Univer
 
 ### Published
 
-Seyed Majid Razavi, **Triet M. Tran**, and Sina Khanmohammadi. "Brain State Transition Disruptions in Alzheimer’s Disease: Insights From EEG State Dynamics." 2025 IEEE International Symposium on Biomedical Imaging (ISBI), IEEE, 2025.
+- Seyed Majid Razavi, **Triet M. Tran**, and Sina Khanmohammadi. "Brain State Transition Disruptions in Alzheimer’s Disease: Insights From EEG State Dynamics." 2025 IEEE International Symposium on Biomedical Imaging (ISBI), IEEE, 2025.
 
-**Triet M. Tran**, Thi T. Tran, and Sina Khanmohammadi. "High-Order Resting-State Functional Connectivity is Predictive of Working Memory Decline After Brain Tumor Resection." 2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), IEEE, 2024.
+- **Triet M. Tran**, Thi T. Tran, and Sina Khanmohammadi. "High-Order Resting-State Functional Connectivity is Predictive of Working Memory Decline After Brain Tumor Resection." 2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), IEEE, 2024.
 
 ### In Preparation
 
-**Triet M. Tran** and Sina Khanmohammadi. "Predictive Power of High-Order Energy Landscapes in Post-Operative Working Memory."
+- **Triet M. Tran** and Sina Khanmohammadi. "Predictive Power of High-Order Energy Landscapes in Post-Operative Working Memory."
 
-**Triet M. Tran**, Seyed Majid Razavi, Steven E. Wilson, and Sina Khanmohammadi. "Energy Landscape Analysis of fMRI Reveals Disruptions in Neural Adaptability of Multiple Sclerosis Patients."
+- **Triet M. Tran**, Seyed Majid Razavi, Steven E. Wilson, and Sina Khanmohammadi. "Energy Landscape Analysis of fMRI Reveals Disruptions in Neural Adaptability of Multiple Sclerosis Patients."
 
-**Triet M. Tran** and Sina Khanmohammadi. "Continuous Energy Landscapes in fMRI: A Graph Neural Network Approach to Enhanced Connectivity Modeling."
+- **Triet M. Tran** and Sina Khanmohammadi. "Continuous Energy Landscapes in fMRI: A Graph Neural Network Approach to Enhanced Connectivity Modeling."
 
 ---
 
