@@ -52,8 +52,8 @@ I am a Ph.D. candidate at the Data Science and Analytics Institute at the Univer
 
 ### Skills
 
-- **Recommender Systems / Deep Learning**: GNNs, GCN, LSTM, GRU, etc.
-- **Machine Learning / Modeling / Statistics**
+- **Machine Learning / Deep Learning**: GNNs, GCN, LSTM, GRU, etc.
+- **Modeling / Statistics**: Boltzmann Machines, Ising Models
 - **Programming Languages**: Python, R
 - **Databases**: SQLite, BigQuery, PostgreSQL, MySQL
 
