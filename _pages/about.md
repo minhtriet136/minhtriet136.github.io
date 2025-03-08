@@ -27,11 +27,31 @@ I am a Ph.D. candidate at the Data Science and Analytics Institute at the Univer
 
 ---
 
+## Publication
+
+### Published
+
+Seyed Majid Razavi, **Triet M. Tran**, and Sina Khanmohammadi. "Brain State Transition Disruptions in Alzheimer’s Disease: Insights From EEG State Dynamics." 2025 IEEE International Symposium on Biomedical Imaging (ISBI), IEEE, 2025.
+
+**Triet M. Tran**, Thi T. Tran, and Sina Khanmohammadi. "High-Order Resting-State Functional Connectivity is Predictive of Working Memory Decline After Brain Tumor Resection." 2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), IEEE, 2024.
+
+### In Preparation
+
+**Triet M. Tran** and Sina Khanmohammadi. "Predictive Power of High-Order Energy Landscapes in Post-Operative Working Memory."
+
+**Triet M. Tran**, Seyed Majid Razavi, Steven E. Wilson, and Sina Khanmohammadi. "Energy Landscape Analysis of fMRI Reveals Disruptions in Neural Adaptability of Multiple Sclerosis Patients."
+
+**Triet M. Tran** and Sina Khanmohammadi. "Continuous Energy Landscapes in fMRI: A Graph Neural Network Approach to Enhanced Connectivity Modeling."
+
+---
+
 ## Presentations
 
-- **Triet M. Tran**, Thi T. Tran, and Sina Khanmohammadi. "High-Order Resting-State Functional Connectivity is Predictive of Working Memory Decline After Brain Tumor Resection." Poster presentation: Poster Fair & Networking Event, University of Oklahoma, OK. *(November 4th, 2023)*
+- **Triet M. Tran**, Thi T. Tran, and Sina Khanmohammadi. "High-Order Resting-State Functional Connectivity is Predictive of Working Memory Decline After Brain Tumor Resection." Poster presentation: Poster Fair & Networking Event, University of Oklahoma, OK. *(November 1st, 2024)*
 
-- Matthew Beattie, **Triet M. Tran**. (2023). "A clustering and machine learning approach to identification of structural drivers of unsheltered homelessness." Poster presentation: The Computational Social Science Society of the Americas (CSS2023), Santa Fe, NM. *(November 1st, 2024)*
+- **Triet M. Tran**, Thi T. Tran, and Sina Khanmohammadi. "High-Order Resting-State Functional Connectivity is Predictive of Working Memory Decline After Brain Tumor Resection." 2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Orlando, FL. *(July 14th, 2024)*
+
+- Matthew Beattie, **Triet M. Tran**. (2023). "A clustering and machine learning approach to identification of structural drivers of unsheltered homelessness." Poster presentation: The Computational Social Science Society of the Americas (CSS2023), Santa Fe, NM. *(November 4th, 2023)*
 
 ---
 
