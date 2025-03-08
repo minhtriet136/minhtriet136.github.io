@@ -23,11 +23,11 @@ repository               : "minhtriet136.github.io"
 author:
   # Biographic information
   avatar           : "Triet_image.png"
-  name             : # "Triet M. Tran"
+  name             : "Triet M. Tran"
   pronouns         : # example: "she/her"  
-  bio              : "Neuroimaging Analysis"
+  bio              : "Ph.D. Candidate"
   location         : # "USA"
-  employer         : # "University of Oklahoma"
+  employer         : "University of Oklahoma"
   uri              : # URL
   email            : "TrietTran@ou.edu" 
 
