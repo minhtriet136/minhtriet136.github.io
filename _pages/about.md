@@ -58,8 +58,7 @@ I am a Ph.D. candidate at the Data Science and Analytics Institute at the Univer
 ## Teaching Experience
 
 - **2023-2025**: **Professional Practicum**, Teaching Assistant  
-- **2023-2025**: **[3SigmaLab](https://www.3sigmalab.com/)**, Research Assistant  
-- **2022-2023**: **DSA's Lab**, Research Assistant  
+- **Aug 2022**: **DSA's Lab**, Guest Talk
 
 ---
 
