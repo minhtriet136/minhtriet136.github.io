@@ -58,7 +58,7 @@ I am a Ph.D. candidate at the Data Science and Analytics Institute at the Univer
 ## Teaching Experience
 
 - **2023-2025**: **Professional Practicum**, Teaching Assistant  
-- **Aug 2022**: **DSA's Lab**, Guest Talk
+- **Aug 2022**: **DSA Club**, Guest Talk
 
 ---
 
