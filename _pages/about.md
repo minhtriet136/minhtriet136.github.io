@@ -29,19 +29,21 @@ I am a Ph.D. candidate at the Data Science and Analytics Institute at the Univer
 
 ## Publication
 
-### Published
-
-- Seyed Majid Razavi, **Triet M. Tran**, and Sina Khanmohammadi. "Brain State Transition Disruptions in Alzheimer’s Disease: Insights From EEG State Dynamics." 2025 IEEE International Symposium on Biomedical Imaging (ISBI), IEEE, 2025.
-
-- **Triet M. Tran**, Thi T. Tran, and Sina Khanmohammadi. "High-Order Resting-State Functional Connectivity is Predictive of Working Memory Decline After Brain Tumor Resection." 2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), IEEE, 2024.
-
 ### In Preparation
 
-- **Triet M. Tran** and Sina Khanmohammadi. "Predictive Power of High-Order Energy Landscapes in Post-Operative Working Memory."
+- **Triet M. Tran** and Sina Khanmohammadi. "High-Order Energy Landscapes Predict Post-Operative Working Memory Decline in Brain Tumor Patients."
 
 - **Triet M. Tran**, Seyed Majid Razavi, Steven E. Wilson, and Sina Khanmohammadi. "Energy Landscape Analysis of fMRI Reveals Disruptions in Neural Adaptability of Multiple Sclerosis Patients."
 
-- **Triet M. Tran** and Sina Khanmohammadi. "Continuous Energy Landscapes in fMRI: A Graph Neural Network Approach to Enhanced Connectivity Modeling."
+- **Triet M. Tran** and Sina Khanmohammadi. "Continuous Energy Landscapes for Discovering High-Order Brain State Transitions."
+  
+### Accepted
+
+- Seyed Majid Razavi, **Triet M. Tran**, and Sina Khanmohammadi. "Brain State Transition Disruptions in Alzheimer’s Disease: Insights From EEG State Dynamics." 2025 IEEE International Symposium on Biomedical Imaging (ISBI), IEEE, 2025.
+
+### Published
+
+- **Triet M. Tran**, Thi T. Tran, and Sina Khanmohammadi. "High-Order Resting-State Functional Connectivity is Predictive of Working Memory Decline After Brain Tumor Resection." 2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), IEEE, 2024.
 
 ---
 
@@ -57,19 +59,17 @@ I am a Ph.D. candidate at the Data Science and Analytics Institute at the Univer
 
 ## Teaching Experience
 
-- **2023-2025**: **Professional Practicum**, Teaching Assistant  
+- **2023-Current**: **Professional Practicum**, Teaching Assistant  
 - **Aug 2022**: **DSA Club**, Guest Talk
 
 ---
 
-## Outreach & Skills
-
-### Service and Outreach
+## Service and Outreach
 
 - **2021-2022**: DSA Club, Chairman  
 - **2021-2022**: VSA Student Organization, Volunteer Member  
 
-### Skills
+## Skills
 
 - **Machine Learning / Deep Learning**: GNNs, GCN, LSTM, GRU, etc.
 - **Modeling / Statistics**: Boltzmann Machines, Ising Models
