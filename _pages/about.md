@@ -72,9 +72,9 @@ I am a Ph.D. candidate at the Data Science and Analytics Institute at the Univer
 ## Skills
 
 - **Machine Learning / Deep Learning**: GNNs, GCN, LSTM, GRU, etc.
-- **Modeling / Statistics**: Boltzmann Machines, Ising Models
-- **Programming Languages**: Python, R
-- **Databases**: SQLite, BigQuery, PostgreSQL, MySQL
+- **Neuroimaging Analysis**: Data Preprocessing, Multivariate Pattern Recognition, Network Models, Statistical Physics Models.
+- **Programming Languages**: Python, R.
+- **Databases**: SQLite, BigQuery, PostgreSQL, MySQL.
 
 ---
 
